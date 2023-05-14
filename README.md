@@ -1,5 +1,9 @@
 # JSON5 – JSON for Humans
 
+Minimal change to parse faulty and/or incomplete json:
+
+Example: parse(`{"a": 1, "b":`); // {"a": 1}
+
 [![Build Status](https://app.travis-ci.com/json5/json5.svg?branch=main)][Build
 Status] [![Coverage
 Status](https://coveralls.io/repos/github/json5/json5/badge.svg)][Coverage
