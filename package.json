@@ -1,5 +1,5 @@
 {
-  "name": "json5",
+  "name": "@valentech/parse-faulty-json5",
   "version": "2.2.3",
   "description": "JSON for Humans",
   "main": "lib/index.js",
